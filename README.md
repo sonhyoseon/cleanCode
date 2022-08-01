@@ -9,7 +9,7 @@
 - [5장 형식 맞추기](https://github.com/postpone-jin/cleanCode/blob/main/5%EC%9E%A5%20%ED%98%95%EC%8B%9D%20%EB%A7%9E%EC%B6%94%EA%B8%B0.md)
 - 6장 객체와 자료 구조
 - [7장 오류 처리](https://github.com/postpone-jin/cleanCode/blob/main/7%EC%9E%A5%20%EC%98%A4%EB%A5%98%EC%B2%98%EB%A6%AC.md)
-- 8장 경계
+- [8장 경계](https://github.com/postpone-jin/cleanCode/blob/main/8%EC%9E%A5%20%EA%B2%BD%EA%B3%84.md)
 - 9장 단위 테스트
 - 10장 클래스
 - 11장 시스템
