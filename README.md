@@ -11,7 +11,7 @@
 - [7장 오류 처리](https://github.com/postpone-jin/cleanCode/blob/main/7%EC%9E%A5%20%EC%98%A4%EB%A5%98%EC%B2%98%EB%A6%AC.md)
 - [8장 경계](https://github.com/postpone-jin/cleanCode/blob/main/8%EC%9E%A5%20%EA%B2%BD%EA%B3%84.md)
 - 9장 단위 테스트
-- 10장 클래스
+- [10장 클래스](https://github.com/postpone-jin/clean-code/blob/main/10%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - [11장 시스템](https://github.com/postpone-jin/cleanCode/blob/main/11%EC%9E%A5%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 - 12장 창발성
 - 13장 동시성
